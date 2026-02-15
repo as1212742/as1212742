@@ -1,64 +1,60 @@
-# Abhishek Singh
+<h1 align="center">Abhishek Singh</h1>
 
-## Senior Frontend Engineer | Agentic AI Systems
+<p align="center">
+  <b>Senior Frontend Engineer | Agentic AI Systems</b>
+</p>
 
-Building fast, accessible, user-centric web experiences.  
-Designing intelligent, multi-agent AI systems for real-world automation.
+<p align="center">
+  Building scalable web platforms and intelligent multi-agent AI systems.
+</p>
 
----
-
-## 🚀 About Me
-
-Frontend engineer with deep interest in system design and AI-driven development workflows.  
-I build scalable UI architectures and experiment with agent-based automation for developer productivity.
-
-**Core Areas**
-- Frontend Architecture (React / TypeScript / Next.js)
-- Performance & Accessibility Engineering
-- Playwright Test Automation
-- Agentic AI System Design
-- Multi-Agent Orchestration (LLM + Tools + MCP style systems)
+<p align="center">
+  <!-- <a href="https://your-portfolio.com">Portfolio</a> · -->
+  <a href="https://www.linkedin.com/in/sngh-abhishek/">LinkedIn</a> ·
+  <a href="https://medium.com/@as1212741">Medium</a> ·
+  <a href="mailto:as1212742@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🧠 Agentic AI Work
+## About Me
 
-- Designing repo-aware AI code inspectors
-- Multi-agent setups (per-repo intelligence)
-- Automated PR impact analysis
-- AI-driven test generation pipelines
-- Infrastructure-aware LLM agents
+I specialize in frontend architecture and AI-powered developer tooling.  
+My work focuses on building high-performance UI systems and designing
+agent-based automation for engineering workflows.
 
-Currently exploring:
-- Tool-augmented LLM agents
-- Cross-repo reasoning systems
-- AI-powered developer workflows
+**Tech Stack:**  
+React, TypeScript, Next.js, Node.js, Playwright, AWS, Docker
 
 ---
 
-## 🔭 Current Focus
+## Agentic AI Focus
 
-- Scalable frontend systems
-- Intelligent test automation
-- AI-assisted engineering platforms
+I design and experiment with:
 
----
-
-## 🛠 Tech Stack
-
-**Frontend:**  
-React • TypeScript • Next.js • Tailwind
-
-**Backend / Infra:**  
-Node.js • AWS • Docker • Kubernetes
-
-**AI & Automation:**  
-LLM Agents • Prompt Engineering • Playwright • GitHub Actions
+- Repo-aware AI code inspectors  
+- Multi-agent architectures (per-repo intelligence)  
+- Automated PR impact analysis  
+- AI-driven test generation systems  
+- Tool-augmented LLM agents  
 
 ---
 
-## 🌐 Connect
+## Current Focus
 
-- [LinkedIn](https://www.linkedin.com/in/sngh-abhishek/): 
-- [Medium](https://medium.com/@as1212741)
-- Email: as1212742@gmail.com
+Building intelligent engineering systems that combine:
+
+- Frontend scalability  
+- Infrastructure automation  
+- Agent orchestration  
+- AI-assisted development workflows  
+
+---
+
+<p align="center">
+  Let's connect and discuss AI systems, frontend architecture, or automation.
+</p>
+
+<p align="center">
+  <i>"Innovation distinguishes between a leader and a follower."</i>
+</p>
