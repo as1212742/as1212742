@@ -1,28 +1,64 @@
 # Abhishek Singh
 
-## Senior Frontend Engineer
+## Senior Frontend Engineer | Agentic AI Systems
 
-Building fast, accessible, user-centric web experiences.
-
----
-
-### 🚀 About Me
-I specialize in frontend architecture and scalable UI systems.
-Focused on performance, DX, and accessibility.
-
-**Tech Stack:**  
-React • TypeScript • Next.js • Node.js • Playwright • AWS
+Building fast, accessible, user-centric web experiences.  
+Designing intelligent, multi-agent AI systems for real-world automation.
 
 ---
 
-### 🔭 Current Focus
-- Advanced UI architecture
-- AI-assisted development workflows
-- End-to-end testing automation
+## 🚀 About Me
+
+Frontend engineer with deep interest in system design and AI-driven development workflows.  
+I build scalable UI architectures and experiment with agent-based automation for developer productivity.
+
+**Core Areas**
+- Frontend Architecture (React / TypeScript / Next.js)
+- Performance & Accessibility Engineering
+- Playwright Test Automation
+- Agentic AI System Design
+- Multi-Agent Orchestration (LLM + Tools + MCP style systems)
 
 ---
 
-### 🌐 Connect
-- LinkedIn: https://linkedin.com/in/your-link
-- Medium: https://medium.com/@your-id
-- Email: your@email.com
+## 🧠 Agentic AI Work
+
+- Designing repo-aware AI code inspectors
+- Multi-agent setups (per-repo intelligence)
+- Automated PR impact analysis
+- AI-driven test generation pipelines
+- Infrastructure-aware LLM agents
+
+Currently exploring:
+- Tool-augmented LLM agents
+- Cross-repo reasoning systems
+- AI-powered developer workflows
+
+---
+
+## 🔭 Current Focus
+
+- Scalable frontend systems
+- Intelligent test automation
+- AI-assisted engineering platforms
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+React • TypeScript • Next.js • Tailwind
+
+**Backend / Infra:**  
+Node.js • AWS • Docker • Kubernetes
+
+**AI & Automation:**  
+LLM Agents • Prompt Engineering • Playwright • GitHub Actions
+
+---
+
+## 🌐 Connect
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sngh-abhishek/)
+- Medium: [https://medium.com/@your-id](https://medium.com/@as1212741)
+- Email: as1212742@gmail.com
