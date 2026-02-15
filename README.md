@@ -59,6 +59,6 @@ LLM Agents • Prompt Engineering • Playwright • GitHub Actions
 
 ## 🌐 Connect
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sngh-abhishek/)
-- Medium: [https://medium.com/@your-id](https://medium.com/@as1212741)
+- [LinkedIn](https://www.linkedin.com/in/sngh-abhishek/): 
+- [Medium](https://medium.com/@as1212741)
 - Email: as1212742@gmail.com
