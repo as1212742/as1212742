@@ -1,16 +1,28 @@
-## Hi there 👋
+# Abhishek Singh
 
-<!--
-**as1212742/as1212742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Frontend Engineer
 
-Here are some ideas to get you started:
+Building fast, accessible, user-centric web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+I specialize in frontend architecture and scalable UI systems.
+Focused on performance, DX, and accessibility.
+
+**Tech Stack:**  
+React • TypeScript • Next.js • Node.js • Playwright • AWS
+
+---
+
+### 🔭 Current Focus
+- Advanced UI architecture
+- AI-assisted development workflows
+- End-to-end testing automation
+
+---
+
+### 🌐 Connect
+- LinkedIn: https://linkedin.com/in/your-link
+- Medium: https://medium.com/@your-id
+- Email: your@email.com
